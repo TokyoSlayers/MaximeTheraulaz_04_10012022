@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    font-family: 'Noto Serif', serif;
+}
+
+.first{
+    display: none;
+}
+
+.last{
+    display: block;
+    opacity: 0;
+}
+
+.load{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#load-img{
+    position: absolute;
+    width: 50%;
+}
+
+
+h1,h2,h3,h4,h5,h6,.my{
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bold;
+    color: #dd163b;
+    cursor: default;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: #dd163b;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+p,a{
+
+    color: white;
+    font-size: 1.6rem;
+    padding-right: 1rem;
+}
+
+p{
+    cursor: default;
+}
+
+main{
+    background-color: rgb(61, 30, 73);
+    height: 100vh;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0d1930ec;
+    height: 5rem;
+}
+
+.nav{
+    transition: 0.5s;
+    opacity: 1;
+    order: 0;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
