@@ -11,6 +11,11 @@
     flex-direction: column;
 }
 
+.clean{
+    padding: 1rem;
+    border-radius: 2rem;
+}
+
 .align-item .form-group{
     width: 60%;
 }
