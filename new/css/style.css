@@ -19,6 +19,10 @@
     width: 30%;
 }
 
+.contrast{
+    background-color: #9C3607;
+}
+
 .commentary{
     border: solid 2px #686565;
     border-radius: 5rem;
