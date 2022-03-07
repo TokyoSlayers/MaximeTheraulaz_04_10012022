@@ -19,3 +19,7 @@ J'ai donc optimisé ce site pour avoir le meilleur SEO naturel
 ## **Resultat analyse SEO**
 
 https://docs.google.com/spreadsheets/d/1M4aqOtqqhpOE8sL1vV37yMZj6_aQinF-u4-GNf2cuvg/edit?usp=sharing
+
+ ## **Lien du site web**
+ 
+ https://tokyoslayers.github.io/MaximeTheraulaz_04_10012022/
