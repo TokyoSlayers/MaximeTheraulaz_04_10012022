@@ -1,6 +1,6 @@
 # **La-Chouette-agence**
 
-![logo](https://tokyoslayers.github.io/htdocs_openclassrooms/new/img/logo.webp)
+![logo](https://tokyoslayers.github.io/MaximeTheraulaz_04_10012022/new/img/logo.webp)
 
 ## **La Chouette Agence projet axé sur l’optimisation SEO**
 
@@ -15,10 +15,6 @@ J'ai donc optimisé ce site pour avoir le meilleur SEO naturel
 - WAVE
 - PINGDOM
 - GDOC
-
-## **Resultat analyse SEO**
-
-https://docs.google.com/spreadsheets/d/1M4aqOtqqhpOE8sL1vV37yMZj6_aQinF-u4-GNf2cuvg/edit?usp=sharing
 
  ## **Lien du site web**
  
